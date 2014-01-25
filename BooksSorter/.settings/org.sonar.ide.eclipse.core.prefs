@@ -1,0 +1,6 @@
+analyseLocally=false
+eclipse.preferences.version=1
+extraProperties=sonar.jdbc.password\=sonarqube\r\nsonar.jdbc.username\=sonarqube\r\nsonar.jdbc.url\=jdbc\:mysql\://localhost\:3306/sonarqube?useUnicode\=true&characterEncoding\=utf8\r\nsonar.host.url\=http\://localhost\:9000
+projectKey=br.com.henriqueso.training\:book-sorter
+serverUrl=http\://localhost\:9000
+version=2
